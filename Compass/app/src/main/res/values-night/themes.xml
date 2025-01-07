@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Compass" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- 设置背景颜色为纯黑 -->
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:colorBackground">#000000</item>
+        <item name="android:textColor">#FFFFFF</item> <!-- 白色文字 -->
+        <item name="android:statusBarColor">#000000</item> <!-- 状态栏纯黑 -->
+        <item name="android:navigationBarColor">#000000</item> <!-- 导航栏纯黑 -->
+    </style>
+</resources>
